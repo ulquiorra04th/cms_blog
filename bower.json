@@ -1,0 +1,21 @@
+{
+  "name": "cms_blog",
+  "description": "CMS Blog",
+  "main": "bower",
+  "authors": [
+    "Hiep Hoang <manhhiepit@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "cmsblog"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
